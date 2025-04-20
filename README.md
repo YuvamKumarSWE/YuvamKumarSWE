@@ -7,17 +7,11 @@ I am a software engineer in the making, passionate about AI, full-stack developm
 
 - 🏗️ Currently working on **NotedlyAI**, an AI-powered note-taking app using **MERN Stack & Whisper AI**  
 - 🛰️ Built **Spacify**, a platform processing **16,000+ space-related datasets** using **Node.js, Express, and Oracle**  
-- 🧠 Software Developer @ **UBC Applied Machine Learning**, working on AI-driven projects for **education & medical research**  
+- 🧠 Software Developer @ **UBC Applied Machine Learning**, working on AI-driven projects for **education**  
 - 💡 Ex-Undergrad Researcher @ **Collin College**, achieving **99% accuracy** in calculus model validation  
 - 🏆 Hackathon! Built **Clocked In**, a habit-tracking app using **React & Firebase**
 
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvamKumarSWE&theme=react-dark&hide_border=true)](https://github.com/YuvamKumarSWE)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuvamKumarSWE&show_icons=true&theme=react&hide=stars,issues&hide_border=true)
-
-
-
-
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvamKumarSWE&theme=react-dark&hide_border=false)](https://github.com/YuvamKumarSWE)
 
 Check out my [coding portfolio!](https://yuvam.netlify.app/)
 
@@ -44,8 +38,6 @@ Check out my [coding portfolio!](https://yuvam.netlify.app/)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
