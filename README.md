@@ -11,8 +11,6 @@ I am a software engineer in the making, passionate about AI, full-stack developm
 - 💡 Ex-Undergrad Researcher @ **Collin College**, achieving **99% accuracy** in calculus model validation  
 - 🏆 Hackathon! Built **Clocked In**, a habit-tracking app using **React & Firebase**
 
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvamKumarSWE&theme=react-dark&hide_border=false)](https://github.com/YuvamKumarSWE)
-
 Check out my [coding portfolio!](https://yuvam.netlify.app/)
 
 ## 🌐 Connect with me:
@@ -50,10 +48,7 @@ Check out my [coding portfolio!](https://yuvam.netlify.app/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains_IDEs-000000?style=flat&logo=jetbrains&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-F05032?style=flat&logo=docker&logoColor=white)
 
 ---
 
