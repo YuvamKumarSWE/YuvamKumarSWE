@@ -5,7 +5,7 @@ I am a software engineer in the making, passionate about AI, full-stack developm
 
 ## 🚀 What I'm Up To
 
-- 🏗️ Currently working on **NotedlyAI**, an AI-powered note-taking app using **MERN Stack & Whisper AI**  
+- 🏗️ Built **NotedlyAI**, an AI-powered note-taking app using **MERN Stack & Whisper AI**  
 - 🛰️ Built **Spacify**, a platform processing **16,000+ space-related datasets** using **Node.js, Express, and Oracle**  
 - 🧠 Software Developer @ **UBC Applied Machine Learning**, working on AI-driven projects for **education**  
 - 💡 Ex-Undergrad Researcher @ **Collin College**, achieving **99% accuracy** in calculus model validation  
