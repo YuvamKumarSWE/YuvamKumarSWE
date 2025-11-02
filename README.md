@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Yuvam Kumar</h1>
+<h1 align="center">👋  I'm Yuvam Kumar</h1>
 
 # 💫 About Me:
 I am a software engineer in the making, passionate about AI, full-stack development, and Formula 1. Currently, I'm studying Computer Science at the University of British Columbia.
